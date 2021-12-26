@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\obj\Debug\GiaoDienBaiTap.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\obj\Debug\GiaoDienBaiTap.Form1.resources
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\obj\Debug\GiaoDienBaiTap.Properties.Resources.resources
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\obj\Debug\GiaoDienBaiTap.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\bin\Debug\GiaoDienBaiTap.exe.config
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\bin\Debug\GiaoDienBaiTap.exe
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\bin\Debug\GiaoDienBaiTap.pdb
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\obj\Debug\GiaoDienBaiTap.exe
+C:\Users\DELL\source\repos\GiaoDienBaiTap\GiaoDienBaiTap\obj\Debug\GiaoDienBaiTap.pdb
